@@ -1,5 +1,6 @@
 body { 
     background-color:#EAF6F6;
+    margin-bottom: 0px;
 }
 h1,h2,h3{
     color:#66BFBF;
@@ -9,4 +10,15 @@ img{
 }
 .big:hover{
     font-size: 18px;
+}
+.inline{
+    display: inline-block;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+   
+}
+.space{
+    margin-left:1300px;
+    position: relative;
+    bottom: 18px;
 }
